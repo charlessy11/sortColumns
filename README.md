@@ -1,4 +1,4 @@
 # sortColumns
 Charles Sy
-Runtime = O(2n^2)
-Space complexity = 
+Runtime = O(n^2)
+Space complexity = n
